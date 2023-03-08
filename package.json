@@ -1,0 +1,28 @@
+{
+  "name": "quini6",
+  "version": "1.0.0",
+  "description": "random numbers for quini6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoSchmidt/quini6.git"
+  },
+  "keywords": [
+    "npmpack",
+    "quini6",
+    "javascript"
+  ],
+  "author": "Rodolfo Schmidt <rodolfoschmidt9@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodolfoSchmidt/quini6/issues"
+  },
+  "homepage": "https://github.com/RodolfoSchmidt/quini6#readme",
+  "bin": {
+    "quini6": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
