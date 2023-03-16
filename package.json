@@ -24,5 +24,8 @@
   "bin": {
     "quini6": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
 }
